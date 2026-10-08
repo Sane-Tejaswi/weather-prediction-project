@@ -92,6 +92,11 @@ body{
 }
 
 
+#currentdeg{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
 #condition{
     margin: 30px 0px 0px 20px;
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
