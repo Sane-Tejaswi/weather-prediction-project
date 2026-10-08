@@ -87,6 +87,11 @@ body{
 }
 
 
+#currentimgicon{
+    margin:25px;
+}
+
+
 #condition{
     margin: 30px 0px 0px 20px;
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
