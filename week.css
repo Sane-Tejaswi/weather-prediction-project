@@ -79,6 +79,9 @@ body{
     text-decoration: none;
 
 }
+#dt{
+    display:flex;
+}
 
 
 #condition{
